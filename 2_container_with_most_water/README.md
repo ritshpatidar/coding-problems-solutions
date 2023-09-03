@@ -2,4 +2,4 @@
 
 Click [here](https://leetcode.com/problems/container-with-most-water/) to visit the problem page on Leetcode
 
-> *solution.py*: takes *n* time
+> *solution.py*: takes *O(n)* time, and constant space
