@@ -1,3 +1,3 @@
 ## Solutions of coding problems on Leetcode
 
-> This repo contains worst as well as accepted solution.
+> This repo contains worst as well as accepted solutions.
